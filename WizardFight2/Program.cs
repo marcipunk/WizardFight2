@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WizardFight2
+namespace WizardFight2 // csak a feladatban megfogalmazott "örökődés útján fejlődik" problémára keresem itt a megoldást
 {
     class Program
     {
